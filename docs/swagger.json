@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Complaint Resolution App",
-    "description": "Backend for AI-powered Complaint Resolution App",
+    "title": "The Strategist AI Toolkit",
+    "description": "Backend for AI-powered The Strategist Toolkit App",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
