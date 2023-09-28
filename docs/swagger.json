@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "The Strategist AI Toolkit",
-    "description": "Backend for AI-powered The Strategist Toolkit App",
+    "title": "Dynamic Shopify Plugin & Customization App",
+    "description": "Backend for Dynamic Shopify Plugin & Customization App",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
