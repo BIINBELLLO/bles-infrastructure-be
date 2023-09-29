@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Dynamic Shopify Plugin & Customization App",
-    "description": "Backend for Dynamic Shopify Plugin & Customization App",
+    "title": "Charlie's Big Gift Online Version",
+    "description": "Backend for Interactive Charlie's Big Gift Book",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
