@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Charlie's Big Gift Online Version",
-    "description": "Backend for Interactive Charlie's Big Gift Book",
+    "title": "Metriport Integrated Dashboard Engine",
+    "description": "Backend for Metriport Integrated Dashboard",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
