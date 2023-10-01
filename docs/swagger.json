@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Metriport Integrated Dashboard Engine",
-    "description": "Backend for Metriport Integrated Dashboard",
+    "title": "Interactive Learning Portal Engine",
+    "description": "Backend for Interactive Learning Portal",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
