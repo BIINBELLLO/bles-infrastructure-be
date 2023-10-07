@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Interactive Learning Portal Engine",
-    "description": "Backend for Interactive Learning Portal",
+    "title": "Interactive Coaching Platform Engine",
+    "description": "Backend for Interactive Coaching Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
