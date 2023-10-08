@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "ClosrAI - An Interactive Coaching Platform Engine",
-    "description": "Backend for ClosrAI Platform",
+    "title": "Property Owners Management System",
+    "description": "Backend for Property Owners Management System",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
