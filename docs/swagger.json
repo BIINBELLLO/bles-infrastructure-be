@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Property Owners Management System",
-    "description": "Backend for Property Owners Management System",
+    "title": "QuikiPay Telegram Bot Engine",
+    "description": "Backend for QuikiPay Telegram Bot Engine",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
