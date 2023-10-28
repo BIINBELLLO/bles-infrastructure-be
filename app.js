@@ -36,32 +36,18 @@ var connection = require("./middlewares/connection")
   });
 
 async function query(data) {
-  //   const response = await fetch(
-  //     "https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c",
-  //     {
-  //       method: "POST",
-  //       headers: {
-  //         "Content-Type": "application/json",
-  //       },
-  //       body: JSON.stringify(data),
-  //     }
-  //   );
   axios
     .post(
       `https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c`,
-      JSON.stringify(data),
+      data,
       {
         "Content-Type": "application/json",
       }
     )
     .then((response) => {
-      //   console.log(response);
-      //   bot.telegram.sendMessage(ctx.chat.id, response, {});
       const result = response.json();
       return result;
     });
-  //   const result = await response.json();
-  //   return result;
 }
 
 bot.command("start", (ctx) => {
@@ -90,10 +76,18 @@ bot.command("ethereum", (ctx) => {
 
 bot.on("text", (ctx) => {
   console.log(ctx.update.message.text);
-  query({ question: ctx.update.message.text }).then((response) => {
-    // console.log(response);
-    ctx.reply(response);
-  });
+  axios
+    .post(
+      `https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c`,
+      data,
+      {
+        "Content-Type": "application/json",
+      }
+    )
+    .then((response) => {
+      console.log(response);
+      ctx.reply(response);
+    });
 });
 
 //setting up swagger
