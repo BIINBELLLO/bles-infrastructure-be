@@ -79,7 +79,7 @@ bot.on("text", (ctx) => {
   axios
     .post(
       `https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c`,
-      data,
+      { question: ctx.update.message.text },
       {
         "Content-Type": "application/json",
       }
