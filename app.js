@@ -1,6 +1,7 @@
 const express = require("express");
 var cors = require("cors");
 const app = express();
+const axios = require("axios");
 const PORT = 8000;
 var usersRouter = require("./routes/user_routes");
 const swStats = require("swagger-stats");
