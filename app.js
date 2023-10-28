@@ -86,7 +86,7 @@ bot.on("text", (ctx) => {
     )
     .then((response) => {
       console.log(response);
-      ctx.reply(response);
+      ctx.reply(response.data);
     });
 });
 
