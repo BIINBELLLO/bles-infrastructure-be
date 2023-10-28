@@ -36,18 +36,32 @@ var connection = require("./middlewares/connection")
   });
 
 async function query(data) {
-  const response = await fetch(
-    "https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c",
-    {
-      method: "POST",
-      headers: {
+  //   const response = await fetch(
+  //     "https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c",
+  //     {
+  //       method: "POST",
+  //       headers: {
+  //         "Content-Type": "application/json",
+  //       },
+  //       body: JSON.stringify(data),
+  //     }
+  //   );
+  axios
+    .post(
+      `https://quickipay-flowise-llm-engine.onrender.com/api/v1/prediction/700d6b0b-9d73-486f-82c8-7f4153b4b50c`,
+      JSON.stringify(data),
+      {
         "Content-Type": "application/json",
-      },
-      body: JSON.stringify(data),
-    }
-  );
-  const result = await response.json();
-  return result;
+      }
+    )
+    .then((response) => {
+      //   console.log(response);
+      //   bot.telegram.sendMessage(ctx.chat.id, response, {});
+      const result = response.json();
+      return result;
+    });
+  //   const result = await response.json();
+  //   return result;
 }
 
 bot.command("start", (ctx) => {
