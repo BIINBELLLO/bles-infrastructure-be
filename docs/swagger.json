@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "QuikiPay Telegram Bot Engine",
-    "description": "Backend for QuikiPay Telegram Bot Engine",
+    "title": "MYai AI Assitant Platform",
+    "description": "Backend for MYai AI Assitant Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
