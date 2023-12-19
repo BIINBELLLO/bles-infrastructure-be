@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Next-Gen Vocal Remover And Music Source Separation Web Application",
-    "description": "A next-Gen Vocal Remover And Music Source Separation Web Application",
+    "title": "An AI-Powered Custom GPT Application",
+    "description": "An AI-Powered Custom GPT Application",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
