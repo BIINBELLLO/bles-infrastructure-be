@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "An AI-Powered Virtual Meeting Summariser Application",
-    "description": "Backend for An AI-Powered Meeting Summariser Application",
+    "title": "A Vehicle Quote Application",
+    "description": "Backend for A Vehicle Quote Application",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
