@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Vehicle Quote Application",
-    "description": "Backend for A Vehicle Quote Application",
+    "title": "A Accounts Payable System",
+    "description": "Backend for A Accounts Payable System",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
