@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered News Aggregation System",
-    "description": "Backend for AI-Powered News Aggregation System",
+    "title": "Grambutler Agency Platform",
+    "description": "Backend for Grambutler Agency Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
