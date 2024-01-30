@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Risk Assessment System",
-    "description": "Backend for A Risk Assessment System",
+    "title": "AI-Powered News Aggregation System",
+    "description": "Backend for AI-Powered News Aggregation System",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
