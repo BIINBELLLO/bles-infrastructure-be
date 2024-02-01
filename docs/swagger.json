@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Grambutler Agency Platform",
-    "description": "Backend for Grambutler Agency Platform",
+    "title": "Embroidery Design Converter Platform",
+    "description": "Backend for Embroidery Design Converter Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
