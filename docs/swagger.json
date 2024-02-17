@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Short Stories Platform",
-    "description": "Backend for an AI-Powered Short Stories Platform",
+    "title": "AI-Powered CRM Platform",
+    "description": "Backend for an AI-Powered CRM Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
