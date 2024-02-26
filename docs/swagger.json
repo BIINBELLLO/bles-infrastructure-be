@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Credit Repair Platform",
-    "description": "Backend for an AI-Powered Credit Repair Platform",
+    "title": "FareHabor Integrated Booking Platform",
+    "description": "Backend for a FareHabor Integrated Booking Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
