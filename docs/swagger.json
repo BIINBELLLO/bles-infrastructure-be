@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "SaaS AI-Powered Education Platform",
-    "description": "Backend for a SaaS AI-Powered Education Platform",
+    "title": "Automated Order-To-Print System",
+    "description": "Backend for an Automated Order-To-Print System - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
