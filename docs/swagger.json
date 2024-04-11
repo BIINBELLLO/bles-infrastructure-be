@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Automated Order-To-Print System",
-    "description": "Backend for an Automated Order-To-Print System - Coming Soon",
+    "title": "CertRiddle Certification System",
+    "description": "Backend for an CertRiddle Certification System - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
