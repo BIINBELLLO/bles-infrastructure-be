@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Intelligent Pitch-Deck Parser System",
-    "description": "Backend for an Intelligent Pitch-Deck Parser System - Coming Soon",
+    "title": "Automated Data Extractor System",
+    "description": "Backend for an Automated Data Extractor System - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
