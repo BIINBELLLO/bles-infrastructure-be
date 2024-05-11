@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Automated Data Extractor System",
-    "description": "Backend for an Automated Data Extractor System - Coming Soon",
+    "title": "AI-Powered Resume Generator & Job Platform",
+    "description": "Backend for an AI-Powered Resume Generator & Job Platform - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
