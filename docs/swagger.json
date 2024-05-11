@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Resume Generator & Job Platform",
-    "description": "Backend for an AI-Powered Resume Generator & Job Platform - Coming Soon",
+    "title": "AI-powered Therapy application",
+    "description": "Backend for an AI-powered Therapy application - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
