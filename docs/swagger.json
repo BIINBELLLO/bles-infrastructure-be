@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-powered Therapy application",
-    "description": "Backend for an AI-powered Therapy application - Coming Soon",
+    "title": "AI-powered Mortgage application",
+    "description": "Backend for an AI-powered Mortgage application - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
