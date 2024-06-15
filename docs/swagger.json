@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Custom Web-based Trading Platform",
-    "description": "Backend for an Custom Web-based Trading Platform - Coming Soon",
+    "title": "Custom Web-based CV Builder SaaS Platform",
+    "description": "Backend for an Custom Web-based CV Builder SaaS Platform - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
