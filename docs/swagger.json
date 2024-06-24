@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Custom AI-Driven CAQH Proview Integrated Platform",
-    "description": "Backend for an Custom AI-Driven CAQH Proview Integrated Platform - Coming Soon",
+    "title": "AI-powered Speech Generation SaaS Platform",
+    "description": "Backend for an AI-powered Speech Generation SaaS Platform - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
