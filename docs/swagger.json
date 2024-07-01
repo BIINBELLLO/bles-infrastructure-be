@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Spam Detector Platform",
-    "description": "Backend for an AI-Powered Spam Detector Platform - Coming Soon",
+    "title": "Resource Planning Tool",
+    "description": "Backend for a Resource Planning Tool - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
