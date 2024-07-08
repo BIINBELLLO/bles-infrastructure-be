@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Resource Planning Tool",
-    "description": "Backend for a Resource Planning Tool - Coming Soon",
+    "title": "Business CRM Platform",
+    "description": "Backend for a Business CRM Platform - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
