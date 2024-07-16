@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "CloseDeals Platform API",
-    "description": "Backend for a CloseDeals Platform API - Coming Soon",
+    "title": "AI SEO Expert Tool API",
+    "description": "Backend for a AI SEO Expert Tool API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
