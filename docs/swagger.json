@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Recruitment Platform API",
-    "description": "Backend for a AI-Powered Recruitment Platform API - Coming Soon",
+    "title": "Dark Web Monitoring Platform API",
+    "description": "Backend for a Dark Web Monitoring Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
