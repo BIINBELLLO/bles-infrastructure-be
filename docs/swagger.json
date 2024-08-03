@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Business and Personal Expenditure Tracker Platform API",
-    "description": "Backend for a Business and Personal Expenditure Tracker Platform API - Coming Soon",
+    "title": "AI-driven Sales Analysis Tool Platform API",
+    "description": "Backend for a AI-driven Sales Analysis Tool Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
