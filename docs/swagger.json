@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-driven Sales Analysis Tool Platform API",
-    "description": "Backend for a AI-driven Sales Analysis Tool Platform API - Coming Soon",
+    "title": "2D - 3D Transformation Platform API",
+    "description": "Backend for a 2D - 3D Transformation Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
