@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "2D - 3D Transformation Platform API",
-    "description": "Backend for a 2D - 3D Transformation Platform API - Coming Soon",
+    "title": "Vehicle Booking Platform API",
+    "description": "Backend for a Vehicle Booking Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
