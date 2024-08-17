@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Skyviews Carribean Travels Website API",
-    "description": "Backend for a Skyviews Carribean Travels Website API - Coming Soon",
+    "title": "Skyviews Caribbean Maps API",
+    "description": "Backend for a Skyviews Caribbean Maps API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
