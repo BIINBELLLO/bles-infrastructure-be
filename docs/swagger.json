@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Vehicle Booking Platform API",
-    "description": "Backend for a Vehicle Booking Platform API - Coming Soon",
+    "title": "Skyviews Carribean Travels Website API",
+    "description": "Backend for a Skyviews Carribean Travels Website API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
