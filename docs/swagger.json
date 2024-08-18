@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Skyviews Caribbean Maps API",
-    "description": "Backend for a Skyviews Caribbean Maps API - Coming Soon",
+    "title": "AI-Powered Medical Image Interpretation System API",
+    "description": "Backend for a AI-Powered Medical Image Interpretation System API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
