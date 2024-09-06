@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Web & Mobile Employee, Vehicle & Document Management System API",
-    "description": "Backend for a Web & Mobile Employee, Vehicle & Document Management System API - Coming Soon",
+    "title": "AI-Powered Content Idea Platform API",
+    "description": "Backend for an AI-Powered Content Idea Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
