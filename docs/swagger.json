@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Content Idea Platform API",
-    "description": "Backend for an AI-Powered Content Idea Platform API - Coming Soon",
+    "title": "Quiick Chat AI-Powered Platform API",
+    "description": "Backend for Quiick Chat AI-Powered Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
