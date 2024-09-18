@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Quiick Chat AI-Powered Platform API",
-    "description": "Backend for Quiick Chat AI-Powered Platform API - Coming Soon",
+    "title": "AI-Powered Data Extraction Platform API",
+    "description": "Backend for AI-Powered Data Extraction Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
