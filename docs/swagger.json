@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-Powered Data Extraction Platform API",
-    "description": "Backend for AI-Powered Data Extraction Platform API - Coming Soon",
+    "title": "Dual-interface for EV Charging Station Platform API",
+    "description": "Backend for Dual-interface for EV Charging Station Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
