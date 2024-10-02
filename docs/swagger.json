@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Dual-interface for EV Charging Station Platform API",
-    "description": "Backend for Dual-interface for EV Charging Station Platform API - Coming Soon",
+    "title": "Eco-Challenge - Green CIty Builder Platform API",
+    "description": "Backend for Eco-Challenge - Green CIty Builder Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
