@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Web-based Automated Testing Platform API",
-    "description": "Backend for Web-based Automated Testing Platform API - Coming Soon",
+    "title": "Personalized Social Media Response Platform API",
+    "description": "Backend for Personalized Social Media Response Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
