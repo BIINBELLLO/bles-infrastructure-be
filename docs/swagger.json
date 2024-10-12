@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Personalized Social Media Response Platform API",
-    "description": "Backend for Personalized Social Media Response Platform API - Coming Soon",
+    "title": "RingCentral Integration With Speech-to-Speech Platform API",
+    "description": "Backend for RingCentral Integration With Speech-to-Speech Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
