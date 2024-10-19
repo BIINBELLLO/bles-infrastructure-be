@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Real-time Automated Trading System Platform API",
-    "description": "Backend for Real-time Automated Trading System Platform API - Coming Soon",
+    "title": "AI Wizard Unreal Bot API",
+    "description": "Backend for AI Wizard Unreal Bot API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
