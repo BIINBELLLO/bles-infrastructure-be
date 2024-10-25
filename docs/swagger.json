@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "LAXMII - AI-Driven Financial Management App API",
-    "description": "Backend for LAXMII - AI-Driven Financial Management App API - Coming Soon",
+    "title": "AI-Powered Job Matching Web Platform API",
+    "description": "Backend for AI-Powered Job Matching Web Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
