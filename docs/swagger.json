@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-powered Cash Flow Analysis App API",
-    "description": "Backend for AI-powered Cash Flow Analysis App API - Coming Soon",
+    "title": "Hat.co Platform API",
+    "description": "Backend for Hat.co Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
