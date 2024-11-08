@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Hat.co Platform API",
-    "description": "Backend for Hat.co Platform API - Coming Soon",
+    "title": "Gold AI Assistant Platform API",
+    "description": "Backend for Gold AI Assistant Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
