@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Trend Analysis Aggregator Platform API",
-    "description": "Backend for Trend Analysis Aggregator Platform API - Coming Soon",
+    "title": "Retrofitter App v3 Platform API",
+    "description": "Backend for Retrofitter App v3 Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
