@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Nationwide Vacant Land Identification API",
-    "description": "Backend for Nationwide Vacant Land Identification API - Coming Soon",
+    "title": "Construction Management Software API",
+    "description": "Backend for Construction Management Software API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
