@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-powered Food Recognition & Analysis Platform API",
-    "description": "Backend for AI-powered Food Recognition & Analysis Platform API - Coming Soon",
+    "title": "Nationwide Vacant Land Identification API",
+    "description": "Backend for Nationwide Vacant Land Identification API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
