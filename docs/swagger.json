@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI Wizard Unreal Bot API",
-    "description": "Backend for AI Wizard Unreal Bot API - Coming Soon",
+    "title": "BookByAnyone Platform API",
+    "description": "Backend for BookByAnyone Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
