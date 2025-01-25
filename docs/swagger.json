@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Automated Trading Platform with Rithmic and DxTrade Integration Platform API",
-    "description": "Backend for Automated Trading Platform with Rithmic and DxTrade Integration Platform API - Coming Soon",
+    "title": "AI Chatbot Builder Platform API",
+    "description": "Backend for AI Chatbot Builder Platform API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
