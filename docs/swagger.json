@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "HiScore Financial AI Chatbot Platform API",
-    "description": "Backend for HiScore Financial AI Chatbot Platform API - Coming Soon",
+    "title": "TalentHR & Indeed Integration API",
+    "description": "Backend for TalentHR & Indeed Integration API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
