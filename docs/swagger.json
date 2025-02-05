@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "TalentHR & Indeed Integration API",
-    "description": "Backend for TalentHR & Indeed Integration API - Coming Soon",
+    "title": "Automated Invoice Processing System API",
+    "description": "Backend for Automated Invoice Processing System API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
