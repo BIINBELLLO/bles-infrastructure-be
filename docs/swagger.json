@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "AI-powered Applicant Tracking System API",
-    "description": "Backend for AI-powered Applicant Tracking System API - Coming Soon",
+    "title": "AI-driven Email Automation System API",
+    "description": "Backend for AI-driven Email Automation System API - Coming Soon",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
