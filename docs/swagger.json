@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Web-based Survey Platform - Coming Soon",
-    "description": "Backend API for A Web-based Survey Platform",
+    "title": "A Distribution/Construction Automation Software - Coming Soon",
+    "description": "Backend API for A Distribution/Construction Automation Software",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
