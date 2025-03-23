@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Web-based ESG Reporting Platform - Coming Soon",
-    "description": "Backend API for A Web-based ESG Reporting Platform",
+    "title": "A Web Scraping Tool for Court Records - Coming Soon",
+    "description": "Backend API for A Web Scraping Tool for Court Records",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
