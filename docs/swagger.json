@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Desktop-based Primavera & Oracle Integration Platform - Coming Soon",
-    "description": "Backend API for A Desktop-based Primavera & Oracle Integration Platform",
+    "title": "A Dynamic Job Aggregation Platform - Coming Soon",
+    "description": "Backend API for A Dynamic Job Aggregation Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
