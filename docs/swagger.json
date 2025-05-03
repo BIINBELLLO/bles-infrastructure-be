@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "A Automated Billing Platform for Transport Contractors - Coming Soon",
-    "description": "Backend API for A Automated Billing Platform for Transport Contractors",
+    "title": "An API Integration for Checker Distributors’ Fulfillment Platform - Coming Soon",
+    "description": "Backend API for An API Integration for Checker Distributors’ Fulfillment Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
