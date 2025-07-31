@@ -2,8 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": " Excel-CAD Integration System - Coming Soon",
-    "description": "Backend API for Excel-CAD Integration System",
+    "title": " Construction Industry LLM Platform - Coming Soon",
+    "description": "Backend API for Construction Industry LLM Platform",
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
